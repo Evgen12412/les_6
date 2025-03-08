@@ -1,0 +1,9 @@
+[package]
+name = "les_6"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.40"
+rdev = {version = "0.5.3", features = ["unstable_grab"]}
+screenshots = "0.8.10"
